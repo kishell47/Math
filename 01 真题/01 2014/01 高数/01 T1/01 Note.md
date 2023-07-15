@@ -16,7 +16,7 @@
 
 # 题目
 
-![image-20230713210217090](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307132102252.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307132102252.png" alt="image-20230713210217090" style="zoom:67%;" />
 
 
 
