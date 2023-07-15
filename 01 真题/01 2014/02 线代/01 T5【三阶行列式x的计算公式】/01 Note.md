@@ -45,6 +45,3 @@ $$
 # 三阶行列式——|×|的计算公式
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307151821056.png" alt="image-20230715182109011" style="zoom:50%;" />
-$$
-
-$$
