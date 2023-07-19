@@ -20,7 +20,7 @@
 
 
 
-# 答案
+# 1 解法一：按某一行（列）展开定理计算行列式
 
 $$
 \left|\begin{array}{llll}
@@ -42,6 +42,11 @@ $$
 
 
 
-# 三阶行列式——|×|的计算公式
+## 1.1 三阶行列式——|×|的计算公式
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307151821056.png" alt="image-20230715182109011" style="zoom:50%;" />
+
+![image-20230719143340544](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307191433634.png)
+
+# 2 解法二：利用行列式的性质与公式计算行列式
+
