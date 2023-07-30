@@ -44,7 +44,7 @@
 
 
 
-## 线性相关结论
+# 线性相关结论
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307191934968.png" alt="image-20230719193447809" style="zoom: 67%;" />
 
