@@ -30,21 +30,6 @@
 
 
 
-
-
 # 解析
 
 ![image-20230731070734312](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307310707601.png)
-
-
-
-# 答案
-
-$$
-A.y=x+sinx,无渐近线\\
-B.y=x^2+sinx,无渐近线\\
-C.y=x+sin\frac{1}{x},有斜渐进线y=x\\
-D.y=x^2+sin\frac{1}{x},无渐近线\\
-选C
-$$
-
