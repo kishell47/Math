@@ -41,8 +41,10 @@
 
 # 正弦型函数 三角级数
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308041400839.png" style="zoom: 50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308041448159.png" alt="image-20230804144807094" style="zoom:50%;" />
 
 
 
-# 
+# 傅里叶级数 傅里叶系数
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308041625720.png" alt="image-20230804162547617" style="zoom:50%;" />
