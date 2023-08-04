@@ -20,17 +20,11 @@
 
 
 
-# 审题
-
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307191415204.png" alt="image-20230719141503110" style="zoom: 67%;" />
-
-
-
 # 解析
 
 ![05 解析](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307291227476.png)
 
-
+![image-20230803204451503](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308032044790.png)
 
 # 线性无关
 
