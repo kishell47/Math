@@ -47,4 +47,8 @@
 
 # 傅里叶级数 傅里叶系数
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308041625720.png" alt="image-20230804162547617" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308041637383.png" alt="image-20230804163722296" style="zoom:50%;" />
+
+
+
+# 傅里叶级数的收敛性——狄利克雷收敛定理
