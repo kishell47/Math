@@ -1,0 +1,16 @@
+# 目录
+
+* 试题：P69
+
+
+
+# 题目
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309221448934.png" alt="image-20230922144838840" style="zoom:80%;" />
+
+
+
+
+
+# 视频解析
+
