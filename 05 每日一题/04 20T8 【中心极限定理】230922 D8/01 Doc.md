@@ -18,6 +18,12 @@
 
 
 
+# 自己做
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309281954017.png" alt="image-20230928195427882" style="zoom: 60%;" />
+
+
+
 # 视频解析
 
 ![image-20230922171741019](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309221717529.png)
