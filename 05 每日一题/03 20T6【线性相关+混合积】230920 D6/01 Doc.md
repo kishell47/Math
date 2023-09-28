@@ -14,6 +14,12 @@
 
 
 
+# 自己做
+
+![image-20230928213457943](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309282134061.png)
+
+
+
 # 视频解析
 
 ![image-20230919222442697](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309192224118.png)
