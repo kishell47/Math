@@ -1,0 +1,1 @@
+![01 背诵](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309282158022.png)
