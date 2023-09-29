@@ -22,7 +22,18 @@
 
 
 
+# 背诵
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309292214149.png" alt="image-20230929221404048" style="zoom:50%;" />
+
+
+
 # 解析
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308291149044.png" alt="image-20230829114859857" style="zoom:50%;" />
 
+
+
+# Gauss公式 高斯公式
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309292213200.png" alt="image-20230929221301119" style="zoom:60%;" />
