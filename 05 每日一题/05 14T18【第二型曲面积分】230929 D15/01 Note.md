@@ -26,6 +26,12 @@
 
 
 
+# 自己做
+
+![image-20231001123824253](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310011238449.png)
+
+
+
 # 解析
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308291149044.png" alt="image-20230829114859857" style="zoom:50%;" />
