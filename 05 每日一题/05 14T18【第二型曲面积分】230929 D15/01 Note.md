@@ -1,5 +1,3 @@
-
-
 # 目录
 
 
@@ -24,7 +22,7 @@
 
 # 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309292214149.png" alt="image-20230929221404048" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310011123468.png" alt="image-20231001112310343" style="zoom:60%;" />
 
 
 
