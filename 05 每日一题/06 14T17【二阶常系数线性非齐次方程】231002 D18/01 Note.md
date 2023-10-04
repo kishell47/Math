@@ -28,4 +28,4 @@
 
 # 二阶常系数非齐次线性微分方程的求解
 
-![image-20231003214801900](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310032148018.png)
+![image-20231004091518511](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310040915635.png)
