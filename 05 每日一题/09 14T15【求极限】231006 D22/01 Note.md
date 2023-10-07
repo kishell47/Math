@@ -16,7 +16,7 @@
 
 # 题目
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308281402580.png" alt="image-20230828140221475" style="zoom: 55%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310071143065.png" alt="image-20231007114306002" style="zoom:70%;" />
 
 
 
@@ -24,6 +24,14 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308281644077.png" alt="image-20230828164425888" style="zoom: 55%;" />
 
+
+
 # 泰勒公式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310070831471.png" alt="image-20231007083100236" style="zoom:60%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310071143971.png" alt="image-20231007114340822" style="zoom:50%;" />
+
+
+
+# 高昆仑视频解析
+
+![image-20231007153251409](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310071532509.png)
