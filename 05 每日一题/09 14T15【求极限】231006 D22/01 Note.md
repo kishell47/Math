@@ -24,3 +24,6 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308281644077.png" alt="image-20230828164425888" style="zoom: 55%;" />
 
+# 泰勒公式
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310070831471.png" alt="image-20231007083100236" style="zoom:60%;" />
