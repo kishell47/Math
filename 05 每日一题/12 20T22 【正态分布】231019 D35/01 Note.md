@@ -16,7 +16,13 @@
 
 
 
+# 汤家凤视频解析
 
 
 
+
+
+# 全概率公式与贝叶斯公式
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310231048109.png" alt="image-20231023104828554" style="zoom:50%;" />
 
