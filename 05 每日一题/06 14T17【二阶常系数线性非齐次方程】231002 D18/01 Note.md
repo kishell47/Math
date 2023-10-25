@@ -1,16 +1,6 @@
-# 目录
+# 背诵
 
-
-
-## 1.1 试题
-
-* P57
-
-
-
-## 1.2 解析
-
-* P212
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310251455275.png" alt="image-20231025145502063" style="zoom:50%;" />
 
 
 
