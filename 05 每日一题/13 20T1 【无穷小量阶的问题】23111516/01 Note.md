@@ -1,6 +1,6 @@
 # 背诵
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311161516515.png" style="zoom:50%;" />
 
 
 
@@ -19,7 +19,6 @@
 
 
 # 视频解析
-
 
 
 
