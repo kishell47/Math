@@ -1,6 +1,6 @@
 # 背诵
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311180953048.png" alt="image-20231118095352876" style="zoom:50%;" />
 
 
 
@@ -10,17 +10,9 @@
 
 
 
-# 视频消化
-
-
-
-
-
-
-
 # 视频解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311172240307.png" alt="image-20231117224029156" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311180855719.png" alt="image-20231118085501422" style="zoom:50%;" />
 
 
 
