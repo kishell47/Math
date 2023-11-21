@@ -1,6 +1,6 @@
 # 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311211213568.png" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311211610920.png" alt="image-20231121161027479" style="zoom: 50%;" />
 
 
 
@@ -16,5 +16,5 @@
 
 # 格林公式
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311211143513.png" alt="image-20231121114329213" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311211611256.png" alt="image-20231121161121014" style="zoom:50%;" />
 
