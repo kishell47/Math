@@ -1,6 +1,6 @@
 # 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311221237784.png" alt="image-20231122123750605" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311221246291.png" alt="image-20231122124644132" style="zoom:50%;" />
 
 
 
@@ -12,7 +12,7 @@
 
 # pq一阶线性非齐次微分方程
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311221149660.png" alt="image-20231122114939583" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311221247753.png" alt="image-20231122124714641" style="zoom:50%;" />
 
 
 
