@@ -12,13 +12,9 @@
 
 # 视频消化
 
-![image-20231123105625649](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311231056307.png)
+![image-20231123154008116](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311231540508.png)
 
 
-
-# 视频解析
-
-![image-20231123105639744](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311231056250.png)
 
 
 
