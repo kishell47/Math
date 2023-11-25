@@ -1,3 +1,9 @@
+# 特征值和特征向量的求解
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311251751594.png" alt="image-20231125175127539" style="zoom:50%;" />
+
+
+
 # 求解齐次线性方程组求解基础解系的步骤
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311251714529.png" alt="05 求解齐次线性方程组求解基础解系的步骤" style="zoom:50%;" />
