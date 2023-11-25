@@ -1,6 +1,6 @@
 # 特征值和特征向量的求解
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311251751594.png" alt="image-20231125175127539" style="zoom:50%;" />
+<img src="C:\Users\51532\Desktop\Math\05 每日一题\04 知识专题\01 解特征值和特征向量 231125\02 Pic\05 求特征值和特征向量的步骤.png" alt="image-20231125175127539" style="zoom:50%;" />
 
 
 
