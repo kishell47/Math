@@ -1,6 +1,6 @@
 # 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311242234130.png" alt="image-20231124223446928" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311251315749.png" alt="image-20231125131524475" style="zoom:50%;" />
 
 
 
@@ -45,4 +45,6 @@
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311241555220.png" style="zoom:50%;" />
 
 
+
+# 快速学会解齐次线性方程组
 
