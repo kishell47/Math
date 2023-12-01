@@ -10,6 +10,12 @@
 
 
 
+# 答案
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312011509554.png" style="zoom:50%;" />
+
+
+
 # 视频消化
 
 ![image-20231024154559858](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310241546221.png)

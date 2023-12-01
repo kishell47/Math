@@ -8,6 +8,10 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310230802818.png" alt="image-20231023080218756" style="zoom:50%;" />
 
+# 答案
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312011826476.png" alt="image-20231201182645301" style="zoom:50%;" />
+
 
 
 # 视频消化
