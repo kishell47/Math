@@ -12,7 +12,7 @@
 
 # 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311261224623.png" alt="image-20231126122405466" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312021136793.png" alt="image-20231202113656485" style="zoom:50%;" />
 
 
 
