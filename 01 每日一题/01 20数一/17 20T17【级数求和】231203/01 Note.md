@@ -10,6 +10,12 @@
 
 
 
+# 答案
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312032216417.png" alt="image-20231203221642133" style="zoom:50%;" />
+
+
+
 # pq一阶线性非齐次微分方程
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311221247753.png" alt="image-20231122124714641" style="zoom:50%;" />
