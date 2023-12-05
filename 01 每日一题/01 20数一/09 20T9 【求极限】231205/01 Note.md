@@ -1,6 +1,6 @@
 # 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202311171514095.png" alt="image-20231117151409940" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312051041748.png" alt="image-20231205104118460" style="zoom:50%;" />
 
 
 
@@ -12,7 +12,7 @@
 
 # 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312051022225.png" alt="image-20231205102214102" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312051041718.png" alt="image-20231205104140614" style="zoom:50%;" />
 
 
 
