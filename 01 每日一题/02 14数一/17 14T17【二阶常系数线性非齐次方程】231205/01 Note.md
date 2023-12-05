@@ -10,6 +10,12 @@
 
 
 
+# 答案
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312052140600.png" alt="image-20231205214010388" style="zoom:50%;" />
+
+
+
 # 解析
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308290903532.png" style="zoom: 60%;" />c

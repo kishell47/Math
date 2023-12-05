@@ -10,6 +10,12 @@
 
 
 
+# 答案
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312052206605.png" alt="image-20231205220608353" style="zoom:50%;" />
+
+
+
 # 自己做
 
 ![image-20231001123824253](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310011238449.png)
