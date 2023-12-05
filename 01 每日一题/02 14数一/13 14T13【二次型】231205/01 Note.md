@@ -28,6 +28,12 @@
 
 
 
+# 答案
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312051812598.png" alt="image-20231205181235467" style="zoom:50%;" />
+
+
+
 # 解析
 
 ![image-20230815230055921](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308152300160.png)
