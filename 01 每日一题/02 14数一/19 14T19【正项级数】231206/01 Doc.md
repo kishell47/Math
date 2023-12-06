@@ -32,6 +32,8 @@
 
 # 答案
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202312061817832.png" alt="image-20231206181714647" style="zoom:50%;" />
+
 ![image-20230929154840733](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309291548976.png)
 
 
