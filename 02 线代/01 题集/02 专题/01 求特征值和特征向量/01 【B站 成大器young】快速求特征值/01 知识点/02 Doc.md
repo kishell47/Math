@@ -2,9 +2,15 @@
 
 
 
+# 01 求矩阵特征值λ的思路1 假设两行成比例
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403031825029.png" alt="image-20240303182539803" style="zoom:50%;" />
+
+
+
 # 01 取巧计算特征值的两种思想（适用 70%-80%)
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403031606405.png" alt="image-20240303160645706" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403031829473.png" alt="image-20240303182908537" style="zoom:50%;" />
 
 
 
