@@ -10,11 +10,7 @@
 
 # 02 求矩阵特征值人的思路2：已知矩阵其中一个特征值λ=λ1
 
-
-
-
-
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403032042809.png" alt="image-20240303204203622" style="zoom:50%;" />
 
 
 
