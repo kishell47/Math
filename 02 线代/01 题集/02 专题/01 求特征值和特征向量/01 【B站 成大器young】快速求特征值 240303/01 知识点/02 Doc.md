@@ -4,7 +4,7 @@
 
 # 01 取巧计算特征值的两种思想（适用 70%-80%)
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403031349388.png" alt="image-20240303134917774" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403031606405.png" alt="image-20240303160645706" style="zoom:50%;" />
 
 
 
