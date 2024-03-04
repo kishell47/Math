@@ -22,3 +22,4 @@
 
 # 02 硬解3阶矩阵特征值的方法（适用全部情况）
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403040901846.png" alt="image-20240304090125751" style="zoom:50%;" />
