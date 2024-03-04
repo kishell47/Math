@@ -12,5 +12,5 @@
 
 # 02 答案
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403040930426.png" alt="02 答案" style="zoom:50%;" />
 
