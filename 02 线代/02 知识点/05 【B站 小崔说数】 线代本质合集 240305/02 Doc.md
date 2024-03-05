@@ -4,7 +4,7 @@
 
 # 02 用向量视角看待解方程组
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403042157510.png" alt="image-20240304215742963" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403051636664.png" alt="image-20240305163618384" style="zoom:50%;" />
 
 # 03 为什么说线性代数研究的是空间变换
 
