@@ -12,4 +12,4 @@
 
 # 04 秩的几何意义
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403051359346.png" alt="image-20240305135953985" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403051411256.png" alt="image-20240305141135975" style="zoom:50%;" />
