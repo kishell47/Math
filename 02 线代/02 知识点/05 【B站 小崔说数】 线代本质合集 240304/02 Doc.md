@@ -8,5 +8,5 @@
 
 # 03 为什么说线性代数研究的是空间变换
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403050931142.png" alt="image-20240305093135638" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403050952928.png" style="zoom:50%;" />
 
