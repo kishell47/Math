@@ -17,3 +17,7 @@
 # 05 为什么基础解系无关解个数为n-r
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403051612437.png" alt="image-20240305161224091" style="zoom:50%;" />
+
+# 06 为什么矩阵行秩等于列秩
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403052110052.png" alt="image-20240305211017303" style="zoom:50%;" />
