@@ -11,3 +11,5 @@
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403050952928.png" style="zoom:50%;" />
 
 # 04 秩的几何意义
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403051359346.png" alt="image-20240305135953985" style="zoom:50%;" />
