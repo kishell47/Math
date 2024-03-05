@@ -13,3 +13,7 @@
 # 04 秩的几何意义
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403051411256.png" alt="image-20240305141135975" style="zoom:50%;" />
+
+# 05 为什么基础解系无关解个数为n-r
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403051612437.png" alt="image-20240305161224091" style="zoom:50%;" />
