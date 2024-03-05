@@ -10,3 +10,4 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403050952928.png" style="zoom:50%;" />
 
+# 04 秩的几何意义
