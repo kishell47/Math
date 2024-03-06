@@ -22,6 +22,6 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403052110052.png" alt="image-20240305211017303" style="zoom:50%;" />
 
-# 07 线性相关，线性无关的数字，几何，物理理解
+# 07 线性相关，线性无关的数学，几何，物理理解
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403052240769.png" alt="image-20240305224035408" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403060802204.png" alt="image-20240306080206287" style="zoom:50%;" />
