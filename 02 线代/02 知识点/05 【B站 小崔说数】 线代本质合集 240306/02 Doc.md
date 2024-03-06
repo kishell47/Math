@@ -31,3 +31,5 @@
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403061036606.png" alt="image-20240306103628299" style="zoom:50%;" />
 
 # 09 特征空间的几何解释
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403061639215.png" alt="image-20240306163922988" style="zoom:50%;" />
