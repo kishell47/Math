@@ -37,3 +37,5 @@
 
 
 # 10 不同特征值对应的特征向量正交的几何意义是什么
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403061844762.png" alt="image-20240306184426539" style="zoom:50%;" />
