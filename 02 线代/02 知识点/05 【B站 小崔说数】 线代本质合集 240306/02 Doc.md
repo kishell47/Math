@@ -25,3 +25,5 @@
 # 07 线性相关，线性无关的数学，几何，物理理解
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403060802204.png" alt="image-20240306080206287" style="zoom:50%;" />
+
+# 08 特征值 特征向量的几何yi'yi
