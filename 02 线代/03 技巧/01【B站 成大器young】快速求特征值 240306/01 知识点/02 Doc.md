@@ -2,6 +2,12 @@
 
 
 
+# 00 总结
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403071033948.png" alt="image-20240307103323649" style="zoom:50%;" />
+
+
+
 # 01 求矩阵特征值λ的思路1 假设两行成比例
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403040845879.png" alt="image-20240304084504617" style="zoom:50%;" />
