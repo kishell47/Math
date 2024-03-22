@@ -6,5 +6,5 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403121606840.png" alt="image-20240312160646510" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403222217078.png" alt="image-20240322221733823" style="zoom:50%;" />
 
