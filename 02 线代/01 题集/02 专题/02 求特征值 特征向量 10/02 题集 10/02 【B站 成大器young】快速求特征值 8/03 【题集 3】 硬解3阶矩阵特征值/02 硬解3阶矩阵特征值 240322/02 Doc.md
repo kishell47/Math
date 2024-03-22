@@ -8,5 +8,5 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403041453852.png" alt="02 答案" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403222031043.png" alt="image-20240322203112818" style="zoom:50%;" />
 
