@@ -12,4 +12,4 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403032056826.png" alt="image-20240303205658634" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403221853966.png" alt="image-20240322185316698" style="zoom:50%;" />
