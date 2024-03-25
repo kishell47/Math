@@ -16,3 +16,10 @@
 
 # 03 统计量的分布
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403251450661.png" alt="03 统计量的分布" style="zoom:50%;" />
+
+
+
+# 04 正态总体下的常用结论
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403251904973.png" alt="image-20240325190441348" style="zoom:50%;" />
