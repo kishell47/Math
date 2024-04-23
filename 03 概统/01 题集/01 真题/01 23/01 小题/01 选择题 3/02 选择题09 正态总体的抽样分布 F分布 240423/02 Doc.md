@@ -1,5 +1,7 @@
 # 00 背诵
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404230900038.png" alt="image-20240423090001854" style="zoom:50%;" />
+
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403261139269.png" alt="image-20240326113913083" style="zoom:50%;" /><img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403231705768.png" alt="image-20240323170547614" style="zoom:50%;" />
 
 
@@ -12,7 +14,9 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403261453332.png" alt="image-20240326145304214" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404230916882.png" alt="image-20240423091619666" style="zoom:50%;" />
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202404230858578.png" alt="image-20240423085850195" style="zoom:50%;" />
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403231718602.png" alt="image-20240323171834418" style="zoom:50%;" />
 
