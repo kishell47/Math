@@ -10,4 +10,4 @@
 
 # 02 定积分 定义
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409161121935.png" alt="image-20240916112143504" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409161657176.png" alt="image-20240916165702812" style="zoom:50%;" />
