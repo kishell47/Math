@@ -8,5 +8,6 @@
 
 
 
-# 02 定积分定义
+# 02 定积分 定义
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409161121935.png" alt="image-20240916112143504" style="zoom:50%;" />
