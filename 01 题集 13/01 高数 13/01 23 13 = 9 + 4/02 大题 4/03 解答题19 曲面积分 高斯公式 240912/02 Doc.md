@@ -1,6 +1,6 @@
 # 00 背诵
 
-![image-20240922084255616](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240922084255616.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409221540190.png" alt="image-20240922154027080" style="zoom:50%;" />
 
 
 
@@ -14,7 +14,7 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409212234298.png" alt="image-20240921223424028" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409221544223.png" alt="image-20240922154409551" style="zoom:50%;" />
 
 
 
