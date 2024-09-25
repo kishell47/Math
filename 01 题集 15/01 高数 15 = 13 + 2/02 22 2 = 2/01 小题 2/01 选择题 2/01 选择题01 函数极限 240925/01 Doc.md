@@ -4,7 +4,7 @@
 
 # 01 题目
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240925112614757.png" alt="image-20240925112614757" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409251737567.png" alt="image-20240925173753518" style="zoom:67%;" />
 
 
 
