@@ -18,7 +18,7 @@
 
 # 04 视频
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409251703905.png" alt="image-20240925170327801" style="zoom:50%;" />
 
 # 05 自己初做
 
