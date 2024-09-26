@@ -10,7 +10,7 @@
 
 # 02 答案
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409262148223.png" alt="image-20240926214818139" style="zoom:50%;" />
 
 # 03 视频消化
 
