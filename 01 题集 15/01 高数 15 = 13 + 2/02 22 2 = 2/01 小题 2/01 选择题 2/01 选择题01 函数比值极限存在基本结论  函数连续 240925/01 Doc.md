@@ -1,6 +1,6 @@
-# 00背诵
+# 00 背诵
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409261557360.png" style="zoom:50%;" />
 
 # 01 题目
 
@@ -14,7 +14,7 @@
 
 # 03 视频消化
 
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409261545059.png" alt="image-20240926154457885" style="zoom:50%;" />
 
 
 
