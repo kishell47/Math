@@ -1,10 +1,12 @@
-# 00背诵
+# 00 背诵
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409271505025.png" alt="image-20240927150520984" style="zoom:67%;" />
 
 
 
 # 01 题目
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409251618461.png" alt="image-20240925112614757" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409262209357.png" alt="image-20240926220930316" style="zoom: 67%;" />
 
 
 
@@ -16,10 +18,12 @@
 
 
 
+
+
 # 04 视频解析
 
 
 
-# 05 自己初做
+# 05 自己初做 正确
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409251559537.png" alt="image-20240925155935478" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202409271147916.png" alt="image-20240927114737794" style="zoom:50%;" />
