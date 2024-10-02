@@ -12,20 +12,5 @@
 
 # 02 答案
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410021848624.png" style="zoom:50%;" />
 
-
-# 03 视频消化
-
-
-
-
-
-# 04 视频解析
-
-
-
-
-
-# 05 自己初做 正确
-
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410021734422.png" style="zoom:50%;" />
