@@ -1,6 +1,6 @@
 # 01 泰勒公式 视频消化
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410071625908.png" alt="image-20241007162533552" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410071642994.png" style="zoom:50%;" />
 
 
 
