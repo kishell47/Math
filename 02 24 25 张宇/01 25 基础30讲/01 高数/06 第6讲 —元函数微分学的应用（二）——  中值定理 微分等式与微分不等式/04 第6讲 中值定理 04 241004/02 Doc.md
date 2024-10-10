@@ -1,6 +1,6 @@
 # 01 泰勒公式 视频消化
 
-![image-20241010161556602](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241010161556602.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410101619744.png" style="zoom:50%;" />
 
 
 
