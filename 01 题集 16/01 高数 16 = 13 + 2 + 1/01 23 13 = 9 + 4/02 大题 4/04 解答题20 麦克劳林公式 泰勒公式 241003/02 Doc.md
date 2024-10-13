@@ -24,4 +24,4 @@
 
 # 04 视频
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410031112999.png" alt="image-20241003111239833" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410131528211.png" style="zoom:50%;" />
