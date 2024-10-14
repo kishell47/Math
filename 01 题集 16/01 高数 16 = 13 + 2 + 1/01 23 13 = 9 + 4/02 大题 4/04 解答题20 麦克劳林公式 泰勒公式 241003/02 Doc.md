@@ -1,6 +1,6 @@
 # 00 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410131611401.png" alt="image-20241013161128991" style="zoom:50%;" />
+![image-20241014100001563](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241014100001563.png)
 
 
 
