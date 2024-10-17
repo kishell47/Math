@@ -12,16 +12,10 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410022222774.png" alt="image-20241002222240724" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410171547240.png" style="zoom:50%;" />
 
 
 
-# 03 视频消化
-
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410171003056.png" alt="image-20241017100309847" style="zoom:50%;" />
-
-
-
-# 04 视频
+# 03 视频
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410131528211.png" style="zoom:50%;" />
