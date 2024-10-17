@@ -18,7 +18,7 @@
 
 # 03 视频消化
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410130859919.png" alt="image-20241013085923772" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410170938251.png" alt="image-20241017093758014" style="zoom:50%;" />
 
 
 
