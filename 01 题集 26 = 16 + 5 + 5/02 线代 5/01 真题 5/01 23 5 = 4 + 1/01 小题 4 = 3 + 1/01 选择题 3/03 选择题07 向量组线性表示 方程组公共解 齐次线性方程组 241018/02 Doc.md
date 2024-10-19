@@ -10,7 +10,9 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410191623156.png" alt="image-20241019162314004" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410192153730.png" alt="image-20241019215315566" style="zoom:50%;" />
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410191710322.png" alt="image-20241019171008171" style="zoom:50%;" />
 
 
 
