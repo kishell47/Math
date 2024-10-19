@@ -10,6 +10,8 @@
 
 # 02 答案
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410191443496.png" alt="image-20241019144346352" style="zoom:50%;" />
+
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403291910460.png" alt="image-20240329191017310" style="zoom:50%;" />
 
 
