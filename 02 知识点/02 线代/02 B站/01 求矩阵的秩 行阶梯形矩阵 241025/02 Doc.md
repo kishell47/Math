@@ -16,7 +16,7 @@
 
 # 02 题目
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241025164306013.png" alt="image-20241025164306013" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410252036801.png" alt="image-20241025203631751" style="zoom:50%;" />
 
 
 
@@ -24,10 +24,10 @@
 
 # 03 答案
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241025164328854.png" alt="image-20241025164328854" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410252036717.png" alt="image-20241025203621620" style="zoom:50%;" />
 
 
 
 # 04 视频
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410251635793.png" alt="image-20241025163517721" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410252036387.png" alt="image-20241025203610173" style="zoom:50%;" />
