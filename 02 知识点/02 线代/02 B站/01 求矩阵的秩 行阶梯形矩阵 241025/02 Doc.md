@@ -10,6 +10,9 @@
 
 # 01 视频来源
 
+* 【求矩阵的秩-哔哩哔哩】
+  *  https://b23.tv/Im6HzFm
+
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410251454801.png" alt="image-20241025145423762" style="zoom:50%;" />
 
 
