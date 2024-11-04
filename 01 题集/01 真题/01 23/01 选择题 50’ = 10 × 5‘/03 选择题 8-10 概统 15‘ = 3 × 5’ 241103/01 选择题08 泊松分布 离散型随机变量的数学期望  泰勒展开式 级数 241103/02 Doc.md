@@ -2,7 +2,7 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403212042693.png" alt="image-20240321204236617" style="zoom:50%;" />
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202403011239566.png" alt="image-20240301123939160" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202411041339297.png" alt="image-20241104133939963" style="zoom:50%;" />
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202402291740339.png" alt="image-20240229174020076" style="zoom:50%;" />
 
