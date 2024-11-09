@@ -1,6 +1,6 @@
 # 00 背诵
 
-![image-20241109110027118](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241109110027118.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202411091109223.png" alt="image-20241109110932074" style="zoom:50%;" />
 
 
 
