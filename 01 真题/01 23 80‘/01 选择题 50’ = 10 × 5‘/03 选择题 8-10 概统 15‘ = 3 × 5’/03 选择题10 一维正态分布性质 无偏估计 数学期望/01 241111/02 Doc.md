@@ -12,4 +12,4 @@
 
 # 02 答案
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241111201041197.png" alt="image-20241111201041197" style="zoom:50%;" />
+<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241111201657267.png" alt="image-20241111201657267" style="zoom:50%;" />
