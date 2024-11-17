@@ -1,6 +1,6 @@
 # 01 视频
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202410301432104.png" alt="image-20241030143254742" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202411171818472.png" alt="image-20241117181846391" style="zoom:50%;" />
 
 
 
