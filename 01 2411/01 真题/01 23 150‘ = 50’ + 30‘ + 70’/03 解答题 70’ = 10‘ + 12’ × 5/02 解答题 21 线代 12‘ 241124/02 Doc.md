@@ -12,11 +12,7 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202411241356313.png" alt="image-20241124135645243" style="zoom:50%;" />
-
-
-
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202411241505918.png" alt="image-20241124150513831" style="zoom:50%;" />
 
 
 
