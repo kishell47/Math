@@ -10,3 +10,4 @@
 
 # 02 视频
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202411261317858.png" alt="image-20241126131736576" style="zoom:50%;" />
