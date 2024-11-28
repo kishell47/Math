@@ -18,4 +18,4 @@
 
 # 03 视频
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20241125113849648.png" alt="image-20241125113849648" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202411280942598.png" alt="image-20241128094209230" style="zoom:50%;" />
