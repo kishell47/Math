@@ -5,3 +5,5 @@
 
 
 # 02 答案
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202412021720705.png" alt="image-20241202172050648" style="zoom:50%;" />
