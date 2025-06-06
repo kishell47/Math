@@ -6,4 +6,4 @@
 
 # 02 视频解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202506061135948.png" alt="image-20250606113429640" style="zoom:50%;" />
+![image-20250606141603453](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250606141603453.png)
