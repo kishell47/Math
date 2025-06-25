@@ -14,7 +14,7 @@
 
 # 02 答案
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202506252233021.png" alt="image-20250625223306861" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202506252240751.png" alt="image-20250625224047606" style="zoom:50%;" />
 
 
 
