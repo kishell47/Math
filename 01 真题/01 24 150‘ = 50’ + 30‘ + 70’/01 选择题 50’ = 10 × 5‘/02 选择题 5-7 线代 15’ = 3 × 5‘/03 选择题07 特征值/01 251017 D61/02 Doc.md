@@ -4,4 +4,6 @@
 
 
 
-# 02 
+# 02 答案解析
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202510210750514.png" alt="image-20251021075023363" style="zoom:50%;" />
