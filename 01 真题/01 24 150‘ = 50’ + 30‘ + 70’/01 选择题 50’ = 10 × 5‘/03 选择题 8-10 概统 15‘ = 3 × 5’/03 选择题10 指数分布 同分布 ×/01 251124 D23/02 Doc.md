@@ -1,6 +1,6 @@
 # 00 背诵
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511241517218.png" alt="image-20251124151704141" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202511241528492.png" alt="image-20251124152840375" style="zoom:50%;" />
 
 
 
