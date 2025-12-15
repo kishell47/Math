@@ -18,4 +18,10 @@
 
 # 03 答案解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202512132002595.png" alt="image-20251213200151281" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202512141924198.png" alt="image-20251214192420988" style="zoom:50%;" />
+
+
+
+# 04 视频解析
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202512141924210.png" alt="image-20251214192442939" style="zoom:50%;" />
