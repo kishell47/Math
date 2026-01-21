@@ -12,5 +12,5 @@
 
 # 03 答案解析
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202601112020288.png" alt="image-20260111202028137" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/202601211151878.png" alt="image-20260121115105615" style="zoom:50%;" />
 
