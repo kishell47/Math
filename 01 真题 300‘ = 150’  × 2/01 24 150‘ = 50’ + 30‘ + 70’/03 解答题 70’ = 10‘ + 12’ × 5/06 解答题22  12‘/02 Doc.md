@@ -6,11 +6,11 @@
 
 # 02 答案
 
-![image-20260604123427212](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20260604123427212.png)
+<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20260604123427212.png" alt="image-20260604123427212" style="zoom:50%;" />
 
 
 
 # 03 答案解析
 
-
+<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20260604141338395.png" alt="image-20260604141338395" style="zoom:50%;" />
 
